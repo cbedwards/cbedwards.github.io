@@ -1,11 +1,7 @@
 ---
-title: "edwards-gitpage"
+title: "Home page"
 ---
 
-This is a Quarto website.
+## Collin Edwards
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm a Postdoctoral researcher in the [Crone lab](https://ase.tufts.edu/biology/labs/crone/) at Tuft University and the [Schultz lab](https://labs.wsu.edu/conservation-biology/) at Washington State University, Vancouver. I'm a theoretical ecologist and environmental data scientist; I like to dive into computational and statistical methods, and explore the ecological and evolutionary mechanisms behind community assembly, phenology, and plant defense strategies. Here you can find out more about me, my research explained for academics or for a general audience, as well as use tutorials and resources I've developed for working in ecology and evolutionary biology.

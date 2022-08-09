@@ -1,0 +1,22 @@
+---
+title: "Technical protocols"
+---
+
+# Organizational tools
+
+-   todoist
+-   workflowy
+-   
+
+# Literature stuff
+
+-   Scite\_
+-   Paperpile
+-   Connected papers
+-   Stork (meh)
+-   Google scholar alerts (meh)
+
+# Publishing
+
+-   BioRxiv for preprints
+-   Figshare for repos etc. (I've had long waits for Dryad, and it doesn't play as well with coding projects).

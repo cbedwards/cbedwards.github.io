@@ -1,0 +1,38 @@
+---
+title: "Tutorials summary"
+---
+
+It's easy to collect programming tutorials and links to cool packages. Here I keep a running list, and summarize the ones I've looked at. While I intend this mostly for my own purposes, hopefully it's helpful to you.
+
+# Not yet explored
+
+## Tutorials
+
+-   [https://quarto.org/docs/computations/ojs.html#overview](Observable%20JS). This is the link for the quarto guide for getting started in Observable, but it's something I'd like to learn period. Currently unread -[https://medium.com/analytics-vidhya/a-fresh-start-for-r-in-vscode-ec61ed108cf6](R%20in%20VSCode). I'm pretty happy with Rstudio/Posit -[https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/](beautiful%20tables%20in%20R) -[https://rstats.wtf/debugging-r-code.html](Debugging%20R%20code). It'd be useful to review debugging tools. -[https://aquaticdatasciopensci.github.io/day2-bigdata/](Workflow%20management%20software%20in%20ecology). Talks about Targets and such.
+-   [https://www.youtube.com/watch?v=DAJO7h2TYX0](Arrow%20for%20R)
+- (https://www.business-science.io/careers/2022/03/15/the-data-science-career-path.html)[walkthrough on data scientist pipeline). Not convinced about the specifics, or the opinions. But (a) may be useful for me if I decide on a non-academic path, and (b) may be useful for me if I stay on the academic path and mentor folks.
+
+## Packages
+
+-   [https://www.youtube.com/watch?v=gYPnLiudtGU](Shiny%20editor%20walkthrough) -[https://books.ropensci.org/targets/](targets%20package). This is something that is likely to be important with the big multi-species project. -[https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=bufferf7ce7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](ggdensity%20package). Note that the tutorial seems to be calling these "high-density region", but I'd probably want to check the technical definition (is this based on k-nearest neighbors? KDE?).
+-   tidy models
+-   plotly
+- data.table (for fast work with big data) and dtplyr for working with. 
+- dbplyr for working with databases.
+- furr (for parallel processing with purrr)
+- sparklyr (cloud computing with R)
+- disk.frame (working with big data locally)
+
+## Informative twitter threads
+
+- [https://twitter.com/ViktoriaWagner1/status/1556308008573050882](academic job applications)
+
+# Explored
+
+## Tutorials
+
+## Packages
+
+## Inforamtive twitter threads
+
+-   [Thread on giving talks](https://twitter.com/bioinfo_mark/status/1554969205270728704). I don't agree with the opening statement that of 100 PI talks, 99 of them will be poor. (I think I might see 30 talks at a larger conference, so that means about every three conferences I see one good talk?). Lots of good info and philosophy on giving good talks, though. Pieces of it match what I've been taught before, or resonate.
