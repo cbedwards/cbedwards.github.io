@@ -8,6 +8,7 @@ It's easy to collect programming tutorials and links to cool packages. Here I ke
 
 ## Tutorials
 
+-   [Navarro's very detailed "statistics with R" course-turned-book ](https://learningstatisticswithr.com/)
 -   [Observable JS](https://quarto.org/docs/computations/ojs.html#overview). This is the link for the quarto guide for getting started in Observable, but it's something I'd like to learn period. Currently unread
 -   [R in VSCode](https://medium.com/analytics-vidhya/a-fresh-start-for-r-in-vscode-ec61ed108cf6). I'm pretty happy with Rstudio/Posit
 -   [beautiful tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) -[Debugging R code](https://rstats.wtf/debugging-r-code.html). It'd be useful to review debugging tools.
