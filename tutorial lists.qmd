@@ -8,7 +8,7 @@ It's easy to collect programming tutorials and links to cool packages. Here I ke
 
 ## Tutorials
 
--   [Navarro's very detailed "statistics with R" course-turned-book ](https://learningstatisticswithr.com/)
+-   [Navarro's very detailed "statistics with R" course-turned-book](https://learningstatisticswithr.com/)
 -   [Observable JS](https://quarto.org/docs/computations/ojs.html#overview). This is the link for the quarto guide for getting started in Observable, but it's something I'd like to learn period. Currently unread
 -   [R in VSCode](https://medium.com/analytics-vidhya/a-fresh-start-for-r-in-vscode-ec61ed108cf6). I'm pretty happy with Rstudio/Posit
 -   [beautiful tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) -[Debugging R code](https://rstats.wtf/debugging-r-code.html). It'd be useful to review debugging tools.
@@ -16,12 +16,16 @@ It's easy to collect programming tutorials and links to cool packages. Here I ke
 -   [Arrow for R](https://www.youtube.com/watch?v=DAJO7h2TYX0)
 -   [walkthrough on data scientist pipeline](https://www.business-science.io/careers/2022/03/15/the-data-science-career-path.html). Not convinced about the specifics, or the opinions. But (a) may be useful for me if I decide on a non-academic path, and (b) may be useful for me if I stay on the academic path and mentor folks.
 -   [dolt](https://docs.dolthub.com/concepts/dolt/sql) An SQL tool
+-   [R tutorial video: check to see if this is appropriate to amplify as initial ecologist tool](https://www.rforecology.com/post/video-tutorial-on-the-essentials-of-r-for-ecology-cheat-sheet/)
+-   [Intro to R notebooks](https://www.youtube.com/watch?v=w9GN7BqDfiE)
 
 ## Packages
 
 -   [Shiny editor walkthrough](https://www.youtube.com/watch?v=gYPnLiudtGU) -[targets package](https://books.ropensci.org/targets/). This is something that is likely to be important with the big multi-species project.
 -   [ggdensity](https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=bufferf7ce7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Note that the tutorial seems to be calling these "high-density region", but I'd probably want to check the technical definition (is this based on k-nearest neighbors? KDE?).
+-   [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) for making pretty fonts in graphs
 -   tidy models
+-   [arrow](https://arrow-user2022.netlify.app/) for working with larger-than-memory data.
 -   plotly
 -   data.table (for fast work with big data) and dtplyr for working with.
 -   dbplyr for working with databases.
